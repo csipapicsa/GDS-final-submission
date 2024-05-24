@@ -1,0 +1,13 @@
+streamlit
+pandas
+geopandas
+sqlalchemy
+shapely
+osmnx
+folium
+streamlit_folium 
+pyproj
+networkx
+polyline
+h3
+openrouteservice
